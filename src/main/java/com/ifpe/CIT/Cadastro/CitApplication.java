@@ -1,4 +1,4 @@
-package com.ifpe.CIT;
+package com.ifpe.CIT.Cadastro;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
